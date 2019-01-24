@@ -8,7 +8,7 @@ import core.Buyer;
 import core.Person;
 import core.Product;
 
-public class Engine {
+public final class Engine {
 
 	private static Scanner input;
 	private static List<Buyer> buyers;

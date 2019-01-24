@@ -1,6 +1,6 @@
 package core;
 
-public class Product {
+public final class Product {
 
 	private String name;
 	private double value;

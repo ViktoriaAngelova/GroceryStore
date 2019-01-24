@@ -3,7 +3,7 @@ package core;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Person implements Buyer {
+public final class Person implements Buyer {
 
 	private String name;
 	private double money;
